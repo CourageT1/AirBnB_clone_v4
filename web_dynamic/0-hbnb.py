@@ -38,7 +38,7 @@ def hbnb():
                            states=st_ct,
                            amenities=amenities,
                            users=users,
-                           places=places
+                           places=places,
                            cache_id=cache_id)
 
 
